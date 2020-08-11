@@ -27,7 +27,7 @@ public class LeftRightPanel extends Panel{
 
 	//Ajustando valores al penel principal
 	setPreferredSize(new Dimension(200, 80) );
-	setBackground(Color.cyan);
+	setBackground(Color.yellow);
 	add(label);
 	add(buttonPanel); //Agrego nuestro subpanel que contiene nuestros botonones
 				     
