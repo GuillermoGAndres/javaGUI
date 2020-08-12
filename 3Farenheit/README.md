@@ -1,2 +1,2 @@
 # Farenheit Converter
-![converter](../img/Farenheit)
+![converter](../img/Farenheit.png)
