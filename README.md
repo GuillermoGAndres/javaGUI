@@ -19,16 +19,25 @@ It creates and  sets  up  the  GUI  components,  creates  the  appropriate  list
 
 ## GUI 
 
-### Push Counter
-![windows](../img/PushCounter.png)
-[Push Counter](./PushCounter/)
+### [Push Counter](./1PushCounter/) - Frame y Panel
+![windows](./img/PushCounter.png)
 
-### [Left Right](2LeftRight/) 
-![windows](../img/LeftRight.png)
-[LeftRight](2LeftRight/)
+### [Left Right](./2LeftRight/) - Buttons y Labels
+![windows](./img/LeftRight.png)
 
-### [SliderColor](6SliderColor/)
-![windowsImage](../img/SliderColor.png)
+### [Farenheit Converter](./3Farenheit/) - TextField 
+![converter](./img/Farenheit.png)
 
+### [Style Options](./4StyleOptions/) - Checkbox
+![style](./img/StyleOptions.png)
+
+### [Quote Options](./5QuoteOptions/) - Radio buttons
+![windowImage](./img/QuoteOptions.png)
+
+### [Slider Color](./6SliderColor/) - Slider
+![windowsImage](./img/SliderColor.png)
+
+###[JukeBox](./7JukeBox/) - ComboBox 
+![windows](./img/JukeBox.png)
 
 
