@@ -37,7 +37,7 @@ It creates and  sets  up  the  GUI  components,  creates  the  appropriate  list
 ### [Slider Color](./6SliderColor/) - Slider
 ![windowsImage](./img/SliderColor.png)
 
-###[JukeBox](./7JukeBox/) - ComboBox 
+### [JukeBox](./7JukeBox/) - ComboBox 
 ![windows](./img/JukeBox.png)
 
 
